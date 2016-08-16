@@ -1,0 +1,11 @@
+Programming Languages
+Nathan Cazell
+2/6/14
+
+The Lexical Analyzer
+
+README
+
+
+This program is written as a lexical analyzer for a pascal liked language called
+PASC. The analyzer will be written in Lex and C.
